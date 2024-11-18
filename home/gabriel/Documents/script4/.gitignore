@@ -1,10 +1,4 @@
-# Ignorar arquivos de dependências
+# Ignorar node_modules e outros arquivos específicos do projeto
 node_modules/
 .next/
 .vscode/
-
-# Ignorar arquivos de configuração
-.gitconfig
-.bash_history
-.bashrc
-cat
