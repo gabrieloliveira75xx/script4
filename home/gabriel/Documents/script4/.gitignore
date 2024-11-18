@@ -2,3 +2,5 @@
 node_modules/
 .next/
 .vscode/
+# Ignorar arquivos fora do repositório
+../../../../*
